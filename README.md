@@ -8,6 +8,7 @@ C# Console Application that generates random compliments
 
 
 ## What I Learned
-
+- 
 
 ## Tools Used
+1.
