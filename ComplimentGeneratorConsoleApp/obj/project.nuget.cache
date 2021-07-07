@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dYEuWw3Lfq4LEAJvyyxCSJIGSWvYOofIX7IAW6BGz70Tv8wVveg2iKYeWzC5Kf2X66j+OsZdRsSy0yTldpBW7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ethan\\source\\repos\\ComplimentGeneratorConsoleApp\\ComplimentGeneratorConsoleApp\\ComplimentGeneratorConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ethan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

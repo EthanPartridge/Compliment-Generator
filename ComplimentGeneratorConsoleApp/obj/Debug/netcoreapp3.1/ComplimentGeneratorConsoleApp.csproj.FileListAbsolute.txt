@@ -1,0 +1,13 @@
+C:\Users\ethan\source\repos\ComplimentGeneratorConsoleApp\ComplimentGeneratorConsoleApp\bin\Debug\netcoreapp3.1\ComplimentGeneratorConsoleApp.exe
+C:\Users\ethan\source\repos\ComplimentGeneratorConsoleApp\ComplimentGeneratorConsoleApp\bin\Debug\netcoreapp3.1\ComplimentGeneratorConsoleApp.deps.json
+C:\Users\ethan\source\repos\ComplimentGeneratorConsoleApp\ComplimentGeneratorConsoleApp\bin\Debug\netcoreapp3.1\ComplimentGeneratorConsoleApp.runtimeconfig.json
+C:\Users\ethan\source\repos\ComplimentGeneratorConsoleApp\ComplimentGeneratorConsoleApp\bin\Debug\netcoreapp3.1\ComplimentGeneratorConsoleApp.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\ComplimentGeneratorConsoleApp\ComplimentGeneratorConsoleApp\bin\Debug\netcoreapp3.1\ComplimentGeneratorConsoleApp.dll
+C:\Users\ethan\source\repos\ComplimentGeneratorConsoleApp\ComplimentGeneratorConsoleApp\bin\Debug\netcoreapp3.1\ComplimentGeneratorConsoleApp.pdb
+C:\Users\ethan\source\repos\ComplimentGeneratorConsoleApp\ComplimentGeneratorConsoleApp\obj\Debug\netcoreapp3.1\ComplimentGeneratorConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ethan\source\repos\ComplimentGeneratorConsoleApp\ComplimentGeneratorConsoleApp\obj\Debug\netcoreapp3.1\ComplimentGeneratorConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\ComplimentGeneratorConsoleApp\ComplimentGeneratorConsoleApp\obj\Debug\netcoreapp3.1\ComplimentGeneratorConsoleApp.AssemblyInfo.cs
+C:\Users\ethan\source\repos\ComplimentGeneratorConsoleApp\ComplimentGeneratorConsoleApp\obj\Debug\netcoreapp3.1\ComplimentGeneratorConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\ComplimentGeneratorConsoleApp\ComplimentGeneratorConsoleApp\obj\Debug\netcoreapp3.1\ComplimentGeneratorConsoleApp.dll
+C:\Users\ethan\source\repos\ComplimentGeneratorConsoleApp\ComplimentGeneratorConsoleApp\obj\Debug\netcoreapp3.1\ComplimentGeneratorConsoleApp.pdb
+C:\Users\ethan\source\repos\ComplimentGeneratorConsoleApp\ComplimentGeneratorConsoleApp\obj\Debug\netcoreapp3.1\ComplimentGeneratorConsoleApp.genruntimeconfig.cache
