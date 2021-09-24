@@ -1,5 +1,5 @@
 # Compliment-Generator
-C# Console Application that generates random compliments
+C# Console Application that generates random compliments.
 
 ## Overview
 This C# console application has 3 different compliment generation modes. The first mode is Randomizer Mode, which generates a random compliment.
